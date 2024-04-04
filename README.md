@@ -1,8 +1,7 @@
-# React + Vite
+1. To start implementing this application, you must install a text editor of your choice 
+2. After the installation, the text editor, open it and go the command prompt and type the following command
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+npm i
+or
+npm install
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
